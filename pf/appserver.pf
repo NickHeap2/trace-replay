@@ -1,0 +1,7 @@
+# Appserver connection pf file
+-AppService SystemAppservice
+-S 10000
+-H localhost
+-N TCP
+-DirectConnect
+

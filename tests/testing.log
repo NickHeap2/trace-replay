@@ -1,0 +1,4 @@
+[01/01/19@14:00:00.000+0100] P-000666 T-000666 2 4GL 4GLTRACE       Func DoAppserverCall in app.p "test1.p" []
+[01/01/19@14:00:00.000+0100] P-000666 T-000666 2 4GL 4GLTRACE       Run DoShortCall in test1.p "1" [Testing - app.p @ 1]
+[01/01/19@14:00:00.000+0100] P-000666 T-000666 2 4GL 4GLTRACE       Func DoAppserverCall in app.p "1" []
+[01/01/19@14:00:00.000+0100] P-000666 T-000666 2 4GL 4GLTRACE       Run DoLongCall in test2.p "2" [Testing - app.p @ 2]
